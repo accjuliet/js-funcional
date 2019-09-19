@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "precio": 20.3,
+        "descripcion":"jabon",
+        "clasificacion":"limpieza",
+        "existencia": 25,
+        "min":5,
+        "max":45
+    },
+    {
+        "id": 2,
+        "precio": 15.3,
+        "descripcion":"desodorante",
+        "clasificacion":"limpieza",
+        "existencia": 14,
+        "min":10,
+        "max":50
+    },
+    {
+        "id": 3,
+        "precio": 19,
+        "descripcion":"shampoo",
+        "clasificacion":"limpieza",
+        "existencia": 8,
+        "min":5,
+        "max":100
+    },
+    {
+        "id": 4,
+        "precio": 20.3,
+        "descripcion":"manzana",
+        "clasificacion":"fruta",
+        "existencia": 89,
+        "min":50,
+        "max":500
+    },
+    {
+        "id": 5,
+        "precio": 35.9,
+        "descripcion":"poro",
+        "clasificacion":"verdura",
+        "existencia": 501,
+        "min":400,
+        "max":500
+    },
+    {
+        "id": 4,
+        "precio": 20.3,
+        "descripcion":"durazno",
+        "clasificacion":"fruta",
+        "existencia": 89,
+        "min":50,
+        "max":500
+    }
+]
